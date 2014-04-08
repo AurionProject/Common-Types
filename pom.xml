@@ -9,7 +9,7 @@
     </parent>
 -->
     <groupId>org.aurionproject</groupId>
-    <version>5.0.0</version>
+    <version>5.0</version>
     <artifactId>AurionCommonTypesLib</artifactId>
     <packaging>jar</packaging>
     <name>Aurion common types</name>
