@@ -23,6 +23,10 @@
     </scm>
 -->
 
+	<properties>
+		<xjc.strict>false</xjc.strict>
+	</properties>
+
     <developers>
     </developers>
 
@@ -125,6 +129,8 @@
             </snapshots>
         </pluginRepository>
     </pluginRepositories>
+	
+<!--	
     <profiles>
         <profile>
             <id>linux</id>
@@ -137,5 +143,8 @@
                 <xjc.strict>false</xjc.strict>
             </properties>
         </profile>
+			
     </profiles>
+-->
+	
 </project>
